@@ -3,22 +3,22 @@
 This repository showcases my skills and shares my latest projects in Data Analytics / Data Science related topics.
 
 ## 📋 Table of Contents
-- [Portfolio Projects](#Portfolio-Projects)
-    - [Python](#Python)
-        - [Data Collection and Integration](#Data-Collection-and-Integration)
-        - [Data Preprocessing and EDA](#Data-Preprocessing-and-EDA)
-        - [Machine Learning and Deep Learning](#Machine-Learning-and-Deep-Learning)
-        - [API Integration](#API-Integration)
-        - [Cloud Services Integration](#Cloud-Services-Integration)
-    - [SQL](#SQL)
-        - [Data Cleaning](#Data-Cleaning)
-        - [Data Exploration](#Data-Exploration)
-    - [Data Visualization](#Data-Visualization)
-        - [Tableau](#Tableau)
-        - [Power BI](#Power-BI)
-    - [Data Storytelling](#Data-Storytelling)
-    - [Business Process Modeling](#Business-Process-Modeling)
-        - [BPMN Modeling](#BPMN-Modeling)
+- [Portfolio Projects](#portfolio-projects)
+    - [Python](#python)
+        - [Data Collection and Integration](#data-collection-and-integration)
+        - [Data Preprocessing and EDA](#data-preprocessing-and-eda)
+        - [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
+        - [API Integration](#api-integration)
+        - [Cloud Services Integration](#cloud-services-integration)
+    - [SQL](#sql)
+        - [Data Exploration](#data-exploration)
+        - [Data Cleaning](#data-cleaning)
+    - [Data Visualization](#data-visualization)
+        - [Tableau](#tableau)
+        - [Power BI](#power-bi)
+    - [Data Storytelling](#data-storytelling)
+    - [Business Process Modeling](#business-process-modeling)
+        - [BPMN Modeling](#bpmn-modeling)
 
 # Portfolio Projects
 
