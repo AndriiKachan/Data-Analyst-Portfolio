@@ -20,7 +20,7 @@ This repository showcases my skills and shares my latest projects in Data Analyt
     - [Business Process Modeling](#business-process-modeling)
         - [BPMN Modeling](#bpmn-modeling)
 
-# Portfolio Projects
+## Portfolio Projects
 
 ## 🐍 Python
 
