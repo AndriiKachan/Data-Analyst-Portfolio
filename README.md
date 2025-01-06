@@ -94,11 +94,11 @@ This repository showcases my skills and shares my latest projects in Data Analyt
 ### Tableau
 - **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/Data%20Visualization/Tableau)
   
-**Description:** This Tableau report visualizes e-commerce Sales Data for India, highlighting performance key KPIs, sales volume by region, product category, size, promotion type and time. It features interactive filters to help users explore and analyze key sales metrics.
+- **Description:** This Tableau report visualizes e-commerce Sales Data for India, highlighting performance key KPIs, sales volume by region, product category, size, promotion type and time. It features interactive filters to help users explore and analyze key sales metrics.
 
-**Goal:** The goal is to provide insights into India’s sales performance, enabling data-driven decisions for optimizing strategies across regions, sizes, promotion types and product categories.
+- **Goal:** The goal is to provide insights into India’s sales performance, enabling data-driven decisions for optimizing strategies across regions, sizes, promotion types and product categories.
 
-**Results:** The dashboard offers insights into sales trends, regional performance, and top product categories, helping businesses identify opportunities for growth and improve sales strategies.
+- **Results:** The dashboard offers insights into sales trends, regional performance, and top product categories, helping businesses identify opportunities for growth and improve sales strategies.
 
 ### Power BI
 - **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/Data%20Visualization/Power%20BI)
