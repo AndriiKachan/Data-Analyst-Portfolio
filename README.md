@@ -11,8 +11,8 @@ This repository showcases my skills and shares my latest projects in Data Analyt
         - [API Integration](#API-Integration)
         - [Cloud Services Integration](#Cloud-Services-Integration)
     - [SQL](#SQL)
-        - [Data Exploration](#Data-Exploration)
         - [Data Cleaning](#Data-Cleaning)
+        - [Data Exploration](#Data-Exploration)
     - [Data Visualization](#Data-Visualization)
         - [Tableau](#Tableau)
         - [Power BI](#Power-BI)
@@ -71,8 +71,8 @@ This repository showcases my skills and shares my latest projects in Data Analyt
 
 ## ⛁ SQL
 
-### 🔍 Data Exploration
-- **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/SQL/Data%20Exploration)
+### 🧹 Data Cleaning
+- **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/SQL/Data%20Cleaning)
   
 - **Description**:
   
@@ -80,8 +80,8 @@ This repository showcases my skills and shares my latest projects in Data Analyt
   
 - **Technology**:
 
-### 🧹 Data Cleaning
-- **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/SQL/Data%20Cleaning)
+### 🔍 Data Exploration
+- **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/SQL/Data%20Exploration)
   
 - **Description**:
   
