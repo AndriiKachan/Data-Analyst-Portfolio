@@ -74,20 +74,18 @@ This repository showcases my skills and shares my latest projects in Data Analyt
 ### 🧹 Data Cleaning
 - **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/SQL/Data%20Cleaning)
   
-- **Description**:
+- **Description**: This project entails delving into and examining the Athletes dataset, which includes historical data on Olympic athletes, their events, medals, and demographic information from previous Olympic Games. The objective is to identify patterns, trends, and insights regarding athlete performance, country involvement, and event statistics using SQL-based data analysis.
   
-- **Skills**:
+- **Skills**: SQL Querying, Data Cleaning, Data Transformation, Database Management.
   
-- **Technology**:
+- **Technology**: CREATE DATABASE, CREATE TABLE, COPY (CSV Import), UPDATE, ALTER TABLE, SELECT.
 
 ### 🔍 Data Exploration
 - **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/SQL/Data%20Exploration)
   
-- **Description**:
+- **Skills**: Data Retrieval, Filtering, Sorting, Aggregation, Grouping, Joining, Pattern Matching, NULL Handling, Subqueries, Common Table Expressions (CTE), Data Modification, Data Insertion, Data Deletion, Data Updating, Table Creation, Indexing, Performance Optimization.
   
-- **Skills**:
-  
-- **Technology**:
+- **Technology**: SELECT, DISTINCT, ORDER BY, LIMIT, OFFSET, WHERE, BETWEEN, IN, LIKE, IS NULL, IS NOT NULL, GROUP BY, HAVING, COUNT, SUM, AVG, MIN, MAX, JOIN, INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, SELF JOIN, UNION, UNION ALL, EXISTS, ANY, ALL, WITH, INSERT INTO, UPDATE, DELETE, TRUNCATE TABLE, CREATE TABLE, CREATE INDEX, DROP INDEX, CREATE VIEW, ALTER VIEW, DROP VIEW, CREATE PROCEDURE, EXEC, CREATE FUNCTION, BEGIN TRANSACTION, COMMIT, ROLLBACK, SAVEPOINT, INDEX, PARTITION.
 
 ## 📊 Data Visualization
 
