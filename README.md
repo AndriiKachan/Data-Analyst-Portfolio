@@ -60,15 +60,6 @@ This repository showcases my skills and shares my latest projects in Data Analyt
   
 - **Technology**: Requests, TextBlob, HTTP Requests, JSON Parsing.
 
-### ☁️ Cloud Services Integration
-- **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/Python/Cloud%20Services%20Integration)
-  
-- **Description**:
-  
-- **Skills**:
-  
-- **Technology**:
-
 ## ⛁ SQL
 
 ### 🧹 Data Cleaning
@@ -103,18 +94,9 @@ This repository showcases my skills and shares my latest projects in Data Analyt
   
 - **Description**:
   
-- **Skills**:
+- **Goal**:
   
-- **Technology**:
-
-## 🗣️ Data Storytelling
-- **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/Data%20Storytelling)
-  
-- **Description**:
-  
-- **Skills**:
-  
-- **Technology**:
+- **Results:**:
 
 ## 🔗 Business Process Modeling
 
