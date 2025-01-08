@@ -24,6 +24,7 @@ This repository showcases my skills and shares my latest projects in Data Analyt
 
 ### 🔌 Data Collection and Integration
 - **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/Python/Data%20Collection%20and%20Integration)
+                [Interactive View](https://public.tableau.com/app/profile/andrii.kachan/viz/IndiaSales_17352558238910/Dashboard1?publish=yes)
   
 - **Description**: Various methods for reading different types of data files into Python, including CSV, Excel, JSON, log, Parquet, SQLite, and tab-separated text files.
   
@@ -90,11 +91,11 @@ This repository showcases my skills and shares my latest projects in Data Analyt
 ### Power BI
 - **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/Data%20Visualization/Power%20BI)
   
-- **Description**:
+- **Description**:This Power BI dashboard provides a high-level view of employees' demographic information, job roles, tenure, and other relevant factors to understand the workforce composition. It serves as an overview of key employee trends for HR and management.
   
-- **Goal**:
+- **Goal**: To provide insights into the workforce's structure, including demographics and trends that are important for HR strategies and management decisions.
   
-- **Results:**:
+- **Results:**: This dashboard enables HR teams to identify key employee trends related to age, gender, marital status, tenure, and more, offering valuable information for planning initiatives, interventions, and policies.
 
 ## 🔗 Business Process Modeling
 
