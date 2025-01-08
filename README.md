@@ -24,7 +24,7 @@ This repository showcases my skills and shares my latest projects in Data Analyt
 
 ### 🔌 Data Collection and Integration
 - **Examples**: [View](https://github.com/AndriiKachan/Portfolio-Projects/tree/main/Python/Data%20Collection%20and%20Integration)
-                [Interactive View](https://public.tableau.com/app/profile/andrii.kachan/viz/IndiaSales_17352558238910/Dashboard1?publish=yes)
+- [Interactive View](https://public.tableau.com/app/profile/andrii.kachan/viz/IndiaSales_17352558238910/Dashboard1?publish=yes)
   
 - **Description**: Various methods for reading different types of data files into Python, including CSV, Excel, JSON, log, Parquet, SQLite, and tab-separated text files.
   
